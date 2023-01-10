@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Herbert, e este é o meu Github. Aqui você encontrará todos os meus projetos! 👋
 
 <!--
 **herbertcardosomartins/herbertcardosomartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
